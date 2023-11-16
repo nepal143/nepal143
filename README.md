@@ -1,3 +1,5 @@
+
+<body style="display: flex ; flex-direction: column; align-items: center;">
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](https://nepal143.io)
 <h1 align="center">Hi 👋, I'm Nepal Singh</h1>
 <h3 align="center">A passionate full stack web and game developer from India</h3>
@@ -22,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nepal143&show_icons=true&locale=en" alt="nepal143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nepal143&" alt="nepal143" /></p>
+</body>
