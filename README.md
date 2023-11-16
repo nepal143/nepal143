@@ -12,7 +12,7 @@
 <a href="https://instagram.com/ignite_ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ignite_ns" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ignite_n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ignite_n" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nepalsss007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nepalsss007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ignite_herobrine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ignite_herobrine" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fallen__angel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ignite_herobrine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
