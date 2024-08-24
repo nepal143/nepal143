@@ -107,4 +107,4 @@
   </a>
 </p>
 
-![Nepal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Ignite&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Nepal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Ignite&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
