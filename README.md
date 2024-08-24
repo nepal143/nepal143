@@ -106,3 +106,5 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </p>
+
+![Nepal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Ignite&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
