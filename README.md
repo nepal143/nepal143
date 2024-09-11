@@ -40,22 +40,28 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   <!-- Repeat for other tools -->
-</p>
-
-<div align="center">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal143&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" alt="nepal143" />
+</p><!-- GitHub Stats -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal143&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" alt="nepal143" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nepal143&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" alt="nepal143" />
 
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<h3 align="center" style="color: #00bfff;">Support:</h3>
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <a href="https://buymeacoffee.com/nepalsss00a" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nepal143&theme=dark&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff" alt="GitHub Streak Stats"/>
 </p>
 
-![Nepal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Ignite🔥&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)
+<!-- GitHub Contribution Graph -->
+![Nepal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Nepal's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)
+
+<!-- Dynamic Dev Card -->
+
+<!-- Support Me Section -->
+### 💖 Support Me:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nepalsss00a" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://ko-fi.com/nepalsss007" target="_blank">
+    <img src="https://img.shields.io/badge/Kofi-%23FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
+</p>
