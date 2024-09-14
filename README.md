@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
-
+<div align="center">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -101,6 +101,7 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a> 
 </p>
+  </div>
 <!-- GitHub Stats -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal143&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" alt="nepal143" />
 
