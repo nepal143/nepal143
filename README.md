@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300bfff&size=22&center=true&vCenter=true&width=450&lines=React+Developer;Node.js+Enthusiast;Full+Stack+Expert;Game+Developer;Always+Learning" alt="Typing SVG" />
 </div>
 
-<p align="center">💬 Ask me about <strong style="color:#00bfff;">react, node.js, full stack development</strong></p>
+<p align="center">💬 Ask me about <strong style="color:#00bfff;">Game Development | VR Development </strong></p>
 <p align="center">📫 Reach me at <strong><a href="mailto:nepalsss007@gmail.com" style="color: #00bfff;">nepalsss007@gmail.com</a></strong></p>
 
 <h3 align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; color: #00bfff;">Connect with me:</h3>
