@@ -1,5 +1,7 @@
 <!-- Header with Cool GIF -->
-[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](https://nepal143.io)
+<p align="center">
+  <img src="https://github.com/nepal143/nepal143/raw/master/banner.png" alt="MasterHead">
+</p>
 
 <h1 align="center" style="font-size: 48px; color: #32cd32; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Nepal Singh</h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #1c1c1c; padding: 15px; border-radius: 10px; color: #32cd32;">A passionate full stack web and game developer from India</h3>
