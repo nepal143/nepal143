@@ -1,7 +1,7 @@
 <!-- Header with Cool GIF -->
 
 
-<h1 align="center" style="font-size: 48px; color: #20c997; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Nepal Singh</h1>
+<h1 align="center" style="font-size: 48px; color: #20c997; text-shadow: 2px 2px 5px #000;">Hi 👋, I'm Nepal Singh aka Ignite</h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #0d1a1f; padding: 15px; border-radius: 10px; color: #20c997;">A passionate full stack web and game developer from India</h3>
 
 <p align="center">
