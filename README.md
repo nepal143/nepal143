@@ -39,7 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nepal143&show_icons=true&locale=en&bg_color=141c2f&title_color=9f9fff&text_color=ffffff&icon_color=9f9fff&hide_border=true" alt="GitHub Stats"/>
 </p>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nepal143&theme=dark&background=141c2f&stroke=9f9fff&ring=9f9fff&fire=9f9fff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9f9fff&sideLabels=9f9fff&dates=ffffff" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nepal143&theme=dark&background=141c2f&stroke=9f9fff&ring=9f9fff&fire=9f9fff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9f9fff&sideLabels=9f9fff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats"/>
+
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nepal143&custom_title=Nepal's%20Contribution%20Graph&bg_color=141c2f&color=9f9fff&line=9f9fff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
