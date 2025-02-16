@@ -1,6 +1,5 @@
 <!-- Epic GitHub README -->
-<h1 align="center" style="font-size: 50px; color: #00ccff; text-shadow: 4px 4px 20px #00ccff, 0 0 30px #0088ff, 0 0 50px #0055ff;">
-  <img src="YOUR_PROFILE_PICTURE_LINK" width="100" style="border-radius: 50%; box-shadow: 0 0 20px #00ccff, 0 0 30px #0088ff;"> Hi 👋, I'm Nepal Singh aka Ignite
+<h1 align="center" style="font-size: 50px; color: #00ccff; text-shadow: 4px 4px 20px #00ccff, 0 0 30px #0088ff, 0 0 50px #0055ff;"> Hi 👋, I'm Nepal Singh aka Ignite
 </h1>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; background-color: #081d2e; padding: 15px; border-radius: 10px; color: #00ccff; text-shadow: 0 0 20px #00ccff, 0 0 35px #0088ff;">
