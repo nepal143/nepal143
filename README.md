@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" style="width: 100%; max-width: 1000px; border-radius: 15px;" />
-</p>
+
 <h1 align="center" style="font-size: 50px; color: #FFFFFF; text-shadow: 4px 4px 30px #C3D7F8, 0 0 50px #C3D7F8, 0 0 70px #7781B2; font-family: 'Black Ops One', sans-serif;">
    Hi 👋, I'm Nepal Singh aka Ignite
 </h1>
